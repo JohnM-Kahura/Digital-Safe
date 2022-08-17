@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "846640286004",
+    "project_id": "digital-safe-2a302",
+    "storage_bucket": "digital-safe-2a302.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:846640286004:android:69c9242f0bd246770dbd61",
+        "android_client_info": {
+          "package_name": "com.example.digital_safe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "846640286004-3ipgncctcdg5rnaf09hkg1bodta4mcvr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1EASvR_6bRvpFlN1TMhTEcJm0TdvtrWA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "846640286004-3ipgncctcdg5rnaf09hkg1bodta4mcvr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
